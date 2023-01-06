@@ -1,0 +1,22 @@
+id: AEF944CAD
+title: An Aspiration Prayer
+type: translation
+pechas:
+- I6406B25F
+- ID0B1078D
+- I3A353F51
+source_metadata:
+  languages:
+  - en
+  - fr
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 11:46:13.249117
+  last_modified_at: 2023-01-04 11:46:13.249130
+  collections:
+  - Dudjom Lingpa Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I6406B25F/634F: 0A91
+  ID0B1078D/35D2: 0A91
+  I3A353F51/B79F: 0A91
